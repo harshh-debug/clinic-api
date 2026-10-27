@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+coverage/
+
+/ASSIGNMENT_CONTEXT.md
+/CODEX_STARTER_PROMPT.md
